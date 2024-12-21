@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi Pengcheng is there 👋
 
 <!--
 **hengzhifu/hengzhifu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning **learning how to use GitHub**
+- 🔭 I’m currently working on **My Personal GitHub Page**
+- 📫 How to reach me: [hengzhifu@outlook.com](mailto:hengzhifu@outlook.com)
